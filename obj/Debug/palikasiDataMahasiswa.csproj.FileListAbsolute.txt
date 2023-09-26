@@ -1,0 +1,13 @@
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\bin\Debug\palikasiDataMahasiswa.exe.config
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\bin\Debug\palikasiDataMahasiswa.exe
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\bin\Debug\palikasiDataMahasiswa.pdb
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.csprojAssemblyReference.cache
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.Form1.resources
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.Properties.Resources.resources
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.csproj.GenerateResource.cache
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.exe
+C:\Users\amikom\source\repos\palikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.pdb
+C:\DATA\Data bacup\New folder\C#\pemograman lanjut\apalikasiDataMahasiswa\palikasiDataMahasiswa\bin\Debug\palikasiDataMahasiswa.exe.config
+C:\DATA\Data bacup\New folder\C#\pemograman lanjut\apalikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.exe
+C:\DATA\Data bacup\New folder\C#\pemograman lanjut\apalikasiDataMahasiswa\palikasiDataMahasiswa\obj\Debug\palikasiDataMahasiswa.pdb
